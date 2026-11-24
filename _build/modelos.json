@@ -165,8 +165,8 @@
   "motor": {
    "img": {
     "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-motor.webp",
-    "w": 1600,
-    "h": 708
+    "w": 434,
+    "h": 515
    },
    "text": "Plataforma de la serie J, motor monocilíndrico de 350cc de carrera larga, sistema de árbol de levas en cabeza (SOHC) e inyección de combustible. Solo buenas vibraciones gracias a su eje de equilibrado. Gran par de motor.",
    "tagline": "Motor | Meteor 350"
@@ -654,8 +654,8 @@
   "motor": {
    "img": {
     "img": "assets/img/modelos/goan-classic-350/royal-enfield-goan-classic-350-motor.webp",
-    "w": 550,
-    "h": 550
+    "w": 360,
+    "h": 429
    },
    "text": "La Goan Classic 350 se impulsa con un motor de plataforma J y 349 CC que le da una nota de escape única. Gracias a los 27 Nm de par máximo y su potencia de 20 CV, ofrece una aceleración suave y una conducción cómoda al atravesar la ciudad, al bordear la costa y en pendientes.",
    "tagline": "Motor | Goan Classic 350"
@@ -944,8 +944,8 @@
   "motor": {
    "img": {
     "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-motor.webp",
-    "w": 1600,
-    "h": 708
+    "w": 385,
+    "h": 406
    },
    "text": "Este motor, como los Sherpa en los que está inspirado, despliega un par suficiente para sacarte de una hondonada arenosa a 5.000 metros de altitud sobre el nivel del mar y luego hacerte disfrutar a tope de los cinco días del viaje de regreso a casa.",
    "tagline": "Motor | Himalayan 450"
@@ -1164,8 +1164,8 @@
   "motor": {
    "img": {
     "img": "assets/img/modelos/classic-650/royal-enfield-classic-650-motor.webp",
-    "w": 550,
-    "h": 550
+    "w": 416,
+    "h": 433
    },
    "text": "El apreciado motor bicilíndrico paralelo de 648 cc de Royal Enfield hace su debut en la Classic 650 con una nueva configuración que ofrece un rendimiento insuperable, una respuesta excepcional al acelerador y el carácter elegante y pausado que caracteriza a las Classic.",
    "tagline": "Motor | Classic 650"
@@ -1687,8 +1687,8 @@
   "motor": {
    "img": {
     "img": "assets/img/modelos/bullet-650/royal-enfield-bullet-650-motor.webp",
-    "w": 550,
-    "h": 550
+    "w": 353,
+    "h": 383
    },
    "text": "El motor bicilíndrico paralelo de la Bullet 650 desarrolla una potencia suave con una elevada capacidad de respuesta tanto para viajes de placer como los de aventura, mientras que su caja de cambios de 6 velocidades de gran precisión y su embrague antirrebote ligero garantizan viajes con todo el confort.",
    "tagline": "Motor | Bullet 650"
@@ -1789,8 +1789,8 @@
   "motor": {
    "img": {
     "img": "assets/img/modelos/bear-650/royal-enfield-bear-650-motor.webp",
-    "w": 550,
-    "h": 550
+    "w": 324,
+    "h": 353
    },
    "text": "La Bear 650 es el fruto del instinto, potenciada por el célebre bicilíndrico en paralelo de Royal Enfield de 650 cc que le permite llegar a senderos forestales o realizar todo tipo de aventuras imprevistas. Con su terminación en negro premium, le aporta un aspecto robusto y determinado, tal como es el espíritu de una scrambler.",
    "tagline": "Motor | Bear 650"

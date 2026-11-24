@@ -208,6 +208,10 @@ def visit_block(h="Dónde estamos"):
       <iframe src="{MAPS_EMBED}" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Mapa de Royal Enfield Madrid Sur"></iframe>
     </div>"""
 
+def marquee(words):
+    items = "".join(f"<span>{e(w)}</span><i>✦</i>" for w in words)
+    return f'<div class="marquee" aria-hidden="true"><div class="marquee__track">{items}{items}</div></div>'
+
 def card(m, lazy=True, h="h3"):
     ncol = len(m["colors"])
     im = m["main"]
@@ -593,6 +597,7 @@ def page_home():
     </div>
   </section>
 
+  {marquee([m["name"] for m in M])}
   <section class="section section--dark">
     <div class="wrap">
       <div class="servs">{serv}</div>
