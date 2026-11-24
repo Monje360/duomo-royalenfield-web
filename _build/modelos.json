@@ -1,0 +1,2391 @@
+[
+ {
+  "slug": "hntr-350",
+  "name": "HNTR 350",
+  "family": "350",
+  "cc": "349",
+  "license": "A2",
+  "hero": {
+   "img": "assets/img/modelos/hntr-350/royal-enfield-hntr-350-portada.webp",
+   "w": 1920,
+   "h": 1080
+  },
+  "motor": {
+   "img": {
+    "img": "assets/img/modelos/hntr-350/royal-enfield-hntr-350-motor.webp",
+    "w": 1600,
+    "h": 708
+   },
+   "text": "En el corazón de la HNTR late un motor de 350 cc de carrera larga de inyección que ofrece una conducción suave, un mayor régimen de rpm y grandes dosis de par. Todo esto, más un chasis de tubo descendente y una suspensión bien anclada, dota a la HNTR 350 con el nivel de potencia adecuado.",
+   "tagline": "Motor | HNTR 350"
+  },
+  "colors": [
+   {
+    "name": "Dapper Grey",
+    "price": 4187,
+    "img": {
+     "img": "assets/img/modelos/hntr-350/royal-enfield-hntr-350-dapper-grey.webp",
+     "w": 1600,
+     "h": 900
+    },
+    "thumb": {
+     "img": "assets/img/modelos/hntr-350/royal-enfield-hntr-350-dapper-grey-mini.webp",
+     "w": 85,
+     "h": 85
+    }
+   },
+   {
+    "name": "Rebel Blue",
+    "price": 4287,
+    "img": {
+     "img": "assets/img/modelos/hntr-350/royal-enfield-hntr-350-rebel-blue.webp",
+     "w": 1600,
+     "h": 900
+    },
+    "thumb": {
+     "img": "assets/img/modelos/hntr-350/royal-enfield-hntr-350-rebel-blue-mini.webp",
+     "w": 85,
+     "h": 85
+    }
+   },
+   {
+    "name": "Dapper Orange",
+    "price": 4287,
+    "img": {
+     "img": "assets/img/modelos/hntr-350/royal-enfield-hntr-350-dapper-orange.webp",
+     "w": 1600,
+     "h": 900
+    },
+    "thumb": {
+     "img": "assets/img/modelos/hntr-350/royal-enfield-hntr-350-dapper-orange-mini.webp",
+     "w": 85,
+     "h": 85
+    }
+   },
+   {
+    "name": "Dapper Green",
+    "price": 4287,
+    "img": {
+     "img": "assets/img/modelos/hntr-350/royal-enfield-hntr-350-dapper-green.webp",
+     "w": 1600,
+     "h": 900
+    },
+    "thumb": {
+     "img": "assets/img/modelos/hntr-350/royal-enfield-hntr-350-dapper-green-mini.webp",
+     "w": 85,
+     "h": 85
+    }
+   }
+  ],
+  "price": 4187,
+  "main": {
+   "img": "assets/img/modelos/hntr-350/royal-enfield-hntr-350-dapper-grey.webp",
+   "w": 1600,
+   "h": 900
+  },
+  "equip": [
+   {
+    "title": "ABS de doble canal",
+    "text": "Diseñada para situaciones en entornos urbanos impredecibles, el sistema de frenos antibloqueo con discos delanteros de 300 mm y traseros de 270 mm te permitirá frenar incluso en las distancias de separación más cortas y manteniendo en todo momento un control firme de la motocicleta.",
+    "img": null
+   },
+   {
+    "title": "Carga sobre la marcha",
+    "text": "La HNTR 350 viene equipada con un puerto USB para tener tus dispositivos conectados en marcha.",
+    "img": null
+   },
+   {
+    "title": "Ergonomía intuitiva",
+    "text": "La altura de 790 mm y los amplios contornos del sillín de la HNTR, así como su excelente ergonomía, ofrecen a cualquiera que vaya sentado en la moto, una experiencia de conducción fácil y cómoda, incluso cuando se circula por tráfico denso en atascos y retenciones.",
+    "img": null
+   },
+   {
+    "title": "Interruptores analógicos",
+    "text": "Los interruptores de inspiración retro hacen del arranque una experiencia única.",
+    "img": null
+   },
+   {
+    "title": "Ruedas de aleación con neumáticos sin cámara",
+    "text": "La HNTR 350 es la única Royal Enfield en producción que cuenta con neumáticos delanteros y traseros de alta maniobrabilidad de 17” con llantas de aleación. Los neumáticos sin cámara permiten rodar sin interrupción sin temor a los pinchazos.",
+    "img": null
+   },
+   {
+    "title": "Cuadro de instrumentos digi-analógico",
+    "text": "Con este guiño a la era analógica, pero en perfecta sincronización para disfrutar de una conducción propia de la moderna actualidad, la HNTR ofrece un velocímetro de estilo retro y una pantalla LCD digital que dispone de todos los datos que el conductor necesita saber, además de también ser compatible con el sistema de navegación Tripper de Royal Enfield.",
+    "img": null
+   }
+  ],
+  "gallery": [
+   {
+    "img": "assets/img/modelos/hntr-350/royal-enfield-hntr-350-galeria-1.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/hntr-350/royal-enfield-hntr-350-galeria-2.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/hntr-350/royal-enfield-hntr-350-galeria-3.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/hntr-350/royal-enfield-hntr-350-galeria-4.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/hntr-350/royal-enfield-hntr-350-galeria-5.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/hntr-350/royal-enfield-hntr-350-galeria-6.webp",
+    "w": 1600,
+    "h": 900
+   }
+  ],
+  "manual": "manuales/ficha-tecnica-royal-enfield-hntr-350.pdf",
+  "og": "assets/img/og/royal-enfield-hntr-350.jpg",
+  "wpUrl": "https://royalenfield.duomomotor.com/moto/hntr-350/"
+ },
+ {
+  "slug": "meteor-350",
+  "name": "Meteor 350",
+  "family": "350",
+  "cc": "349",
+  "license": "A2",
+  "hero": {
+   "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-portada.webp",
+   "w": 1920,
+   "h": 1080
+  },
+  "motor": {
+   "img": {
+    "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-motor.webp",
+    "w": 1600,
+    "h": 708
+   },
+   "text": "Plataforma de la serie J, motor monocilíndrico de 350cc de carrera larga, sistema de árbol de levas en cabeza (SOHC) e inyección de combustible. Solo buenas vibraciones gracias a su eje de equilibrado. Gran par de motor.",
+   "tagline": "Motor | Meteor 350"
+  },
+  "colors": [
+   {
+    "name": "Fireball Black",
+    "price": 4387,
+    "img": {
+     "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-fireball-black.webp",
+     "w": 1600,
+     "h": 900
+    },
+    "thumb": {
+     "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-fireball-black-mini.webp",
+     "w": 400,
+     "h": 225
+    }
+   },
+   {
+    "name": "Fireball Red",
+    "price": 4387,
+    "img": {
+     "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-fireball-red.webp",
+     "w": 1600,
+     "h": 900
+    },
+    "thumb": {
+     "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-fireball-red-mini.webp",
+     "w": 400,
+     "h": 225
+    }
+   },
+   {
+    "name": "Stellar Black",
+    "price": 4487,
+    "img": {
+     "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-stellar-black.webp",
+     "w": 1600,
+     "h": 900
+    },
+    "thumb": {
+     "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-stellar-black-mini.webp",
+     "w": 400,
+     "h": 225
+    }
+   },
+   {
+    "name": "Aurora Blue",
+    "price": 4587,
+    "img": {
+     "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-aurora-blue.webp",
+     "w": 1600,
+     "h": 900
+    },
+    "thumb": {
+     "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-aurora-blue-mini.webp",
+     "w": 400,
+     "h": 225
+    }
+   }
+  ],
+  "price": 4387,
+  "main": {
+   "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-fireball-black.webp",
+   "w": 1600,
+   "h": 900
+  },
+  "equip": [
+   {
+    "title": "Asiento bajo de gran comodidad.",
+    "text": "Asiento bajo y ancho con respaldo acolchado para facilitar el acceso y mejorar la comodidad tanto del conductor como del pasajero durante los trayectos más largos.",
+    "img": {
+     "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-asiento-bajo-de-gran-comodidad.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Faro LED",
+    "text": "El nuevo faro combina la estética vintage con las modernas luces LED para así reducir el consumo de potencia y al mismo tiempo, incrementar la visibilidad, vayas donde vays.",
+    "img": {
+     "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-faro-led.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Bastidor de doble cuna",
+    "text": "Un chasis diseñado para mejorar el control en curvas, facilitar la maniobrabilidad y optimizar la estabilidad en rectas.",
+    "img": {
+     "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-bastidor-de-doble-cuna.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Cuadro de instrumentos digi-analógico",
+    "text": "El panel de instrumentos digi-analógico de inspiración retro con pantalla de LCD flotante y sistema de navegación Tripper integrado, proporciona toda la información que necesitas, tanto de día como de noche.",
+    "img": {
+     "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-cuadro-de-instrumentos-digi-analogico.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Llantas de aleación con neumáticos sin cámara",
+    "text": "El neumático trasero más ancho garantiza una mejor tracción mientras que el sistema de antibloqueo de frenos (ABS) de doble canal ofrece la capacidad de conducir largas distancias sin ningún tipo de preocupación.",
+    "img": {
+     "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-llantas-de-aleacion-con-neumaticos-sin-c.webp",
+     "w": 700,
+     "h": 380
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-galeria-1.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-galeria-2.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-galeria-3.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-galeria-4.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-galeria-5.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-galeria-6.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-galeria-7.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-galeria-8.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-galeria-9.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-galeria-10.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/meteor-350/royal-enfield-meteor-350-galeria-11.webp",
+    "w": 700,
+    "h": 380
+   }
+  ],
+  "manual": "manuales/ficha-tecnica-royal-enfield-meteor-350.pdf",
+  "og": "assets/img/og/royal-enfield-meteor-350.jpg",
+  "wpUrl": "https://royalenfield.duomomotor.com/moto/meteor-350/"
+ },
+ {
+  "slug": "classic-350",
+  "name": "Classic 350",
+  "family": "350",
+  "cc": "349",
+  "license": "A2",
+  "hero": {
+   "img": "assets/img/modelos/classic-350/royal-enfield-classic-350-portada.webp",
+   "w": 1920,
+   "h": 750
+  },
+  "motor": {
+   "img": null,
+   "text": "",
+   "tagline": ""
+  },
+  "colors": [
+   {
+    "name": "Jodhpur Blue",
+    "price": 4887,
+    "img": {
+     "img": "assets/img/modelos/classic-350/royal-enfield-classic-350-jodhpur-blue.webp",
+     "w": 1600,
+     "h": 900
+    },
+    "thumb": {
+     "img": "assets/img/modelos/classic-350/royal-enfield-classic-350-jodhpur-blue-mini.webp",
+     "w": 345,
+     "h": 220
+    }
+   },
+   {
+    "name": "Stealth Black",
+    "price": 4987,
+    "img": {
+     "img": "assets/img/modelos/classic-350/royal-enfield-classic-350-stealth-black.webp",
+     "w": 1600,
+     "h": 900
+    },
+    "thumb": {
+     "img": "assets/img/modelos/classic-350/royal-enfield-classic-350-stealth-black-mini.webp",
+     "w": 345,
+     "h": 220
+    }
+   },
+   {
+    "name": "Esmerald",
+    "price": 5087,
+    "img": {
+     "img": "assets/img/modelos/classic-350/royal-enfield-classic-350-esmerald.webp",
+     "w": 1600,
+     "h": 900
+    },
+    "thumb": {
+     "img": "assets/img/modelos/classic-350/royal-enfield-classic-350-esmerald-mini.webp",
+     "w": 345,
+     "h": 220
+    }
+   }
+  ],
+  "price": 4887,
+  "main": {
+   "img": "assets/img/modelos/classic-350/royal-enfield-classic-350-jodhpur-blue.webp",
+   "w": 1600,
+   "h": 900
+  },
+  "equip": [
+   {
+    "title": "Maneta de embrague y freno regulable",
+    "text": "El recorrido ajustable y la ergonomía mejorada de las manetas de embrague y freno de la nueva Classic 350 permiten que conductores de todos los tamaños puedan manejar su motocicleta con confianza.",
+    "img": null
+   },
+   {
+    "title": "Faros y luz de piloto LED",
+    "text": "",
+    "img": null
+   },
+   {
+    "title": "Puerto de carga USB",
+    "text": "",
+    "img": null
+   },
+   {
+    "title": "Intermitentes LED",
+    "text": "",
+    "img": null
+   },
+   {
+    "title": "Indicador de marchas",
+    "text": "",
+    "img": null
+   }
+  ],
+  "gallery": [
+   {
+    "img": "assets/img/modelos/classic-350/royal-enfield-classic-350-galeria-1.webp",
+    "w": 859,
+    "h": 500
+   },
+   {
+    "img": "assets/img/modelos/classic-350/royal-enfield-classic-350-galeria-2.webp",
+    "w": 859,
+    "h": 500
+   },
+   {
+    "img": "assets/img/modelos/classic-350/royal-enfield-classic-350-galeria-3.webp",
+    "w": 859,
+    "h": 500
+   },
+   {
+    "img": "assets/img/modelos/classic-350/royal-enfield-classic-350-galeria-4.webp",
+    "w": 859,
+    "h": 500
+   }
+  ],
+  "manual": "manuales/ficha-tecnica-royal-enfield-classic-350.pdf",
+  "og": "assets/img/og/royal-enfield-classic-350.jpg",
+  "wpUrl": "https://royalenfield.duomomotor.com/moto/classic-350/"
+ },
+ {
+  "slug": "bullet-350",
+  "name": "Bullet 350",
+  "family": "350",
+  "cc": "349",
+  "license": "A2",
+  "hero": {
+   "img": "assets/img/modelos/bullet-350/royal-enfield-bullet-350-portada.webp",
+   "w": 1920,
+   "h": 1080
+  },
+  "motor": {
+   "img": {
+    "img": "assets/img/modelos/bullet-350/royal-enfield-bullet-350-motor.webp",
+    "w": 1600,
+    "h": 708
+   },
+   "text": "La Bullet 2023 llega a Europa con el mismo temple en su corazón, pero con un nuevo metal en sus entrañas. Su nuevo motor de 349 cc ofrece potencia y grandes dosis de par, incluso a bajas revoluciones, permitiéndote circular con la misma facilidad por las calles de la ciudad que por carreteras secundarias.",
+   "tagline": "Motor | Bullet 350"
+  },
+  "colors": [
+   {
+    "name": "Standard Black",
+    "price": 5087,
+    "img": {
+     "img": "assets/img/modelos/bullet-350/royal-enfield-bullet-350-standard-black.webp",
+     "w": 1420,
+     "h": 950
+    },
+    "thumb": {
+     "img": "assets/img/modelos/bullet-350/royal-enfield-bullet-350-standard-black-mini.webp",
+     "w": 345,
+     "h": 220
+    }
+   },
+   {
+    "name": "Black Gold",
+    "price": 5187,
+    "img": {
+     "img": "assets/img/modelos/bullet-350/royal-enfield-bullet-350-black-gold.webp",
+     "w": 1420,
+     "h": 950
+    },
+    "thumb": {
+     "img": "assets/img/modelos/bullet-350/royal-enfield-bullet-350-black-gold-mini.webp",
+     "w": 345,
+     "h": 220
+    }
+   }
+  ],
+  "price": 5087,
+  "main": {
+   "img": "assets/img/modelos/bullet-350/royal-enfield-bullet-350-standard-black.webp",
+   "w": 1420,
+   "h": 950
+  },
+  "equip": [
+   {
+    "title": "Asiento totalmente nuevo",
+    "text": "El reimaginado asiento monoplaza de firma ofrece más espacio y un soporte mejorado bajo los muslos de las piernas, garantizando un confort integral tanto en desplazamientos rápidos como en viajes largos.",
+    "img": {
+     "img": "assets/img/modelos/bullet-350/royal-enfield-bullet-350-asiento-totalmente-nuevo.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Interruptores giratorios",
+    "text": "Nuevos y mejorados interruptores giratorios que retienen la suavidad táctil de los interruptores de antes, al mismo tiempo que facilitan el encendido y el arranque de la motocicleta.",
+    "img": {
+     "img": "assets/img/modelos/bullet-350/royal-enfield-bullet-350-interruptores-giratorios.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "ABS de doble canal",
+    "text": "Diseñado para afrontar todo tipo de retos, el sistema antibloqueo con freno de disco delantero de 300 mm y trasero de 270 mm te permite mantener la estabilidad sobre la motocicleta y detenerte con la máxima suavidad, incluso en las carreteras más irregulares.",
+    "img": {
+     "img": "assets/img/modelos/bullet-350/royal-enfield-bullet-350-abs-de-doble-canal.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Cuadro de instrumentos actualizado",
+    "text": "El nuevo cuadro de instrumentos digi-analógico te ofrece la combinación ideal de tradición y tecnología, y te proporciona información exacta al mismo tiempo que mantiene la estética atemporal de la Bullet 350.",
+    "img": {
+     "img": "assets/img/modelos/bullet-350/royal-enfield-bullet-350-cuadro-de-instrumentos-actualizado.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Nuevo chasis",
+    "text": "Su nuevo chasis actualizado adopta la forma de doble tubo descendente en cuna, con el que te ofrece mayor confianza y una experiencia de conducción más estable cada vez que te subas a la motocicleta.",
+    "img": {
+     "img": "assets/img/modelos/bullet-350/royal-enfield-bullet-350-nuevo-chasis.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Puerto USB",
+    "text": "El nuevo puerto USB te permitirá cargar tus dispositivos y mantenerte conectado al mundo, te encuentres donde te encuentres.",
+    "img": {
+     "img": "assets/img/modelos/bullet-350/royal-enfield-bullet-350-puerto-usb.webp",
+     "w": 700,
+     "h": 380
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "img": "assets/img/modelos/bullet-350/royal-enfield-bullet-350-galeria-1.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/bullet-350/royal-enfield-bullet-350-galeria-2.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/bullet-350/royal-enfield-bullet-350-galeria-3.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/bullet-350/royal-enfield-bullet-350-galeria-4.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/bullet-350/royal-enfield-bullet-350-galeria-5.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/bullet-350/royal-enfield-bullet-350-galeria-6.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/bullet-350/royal-enfield-bullet-350-galeria-7.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/bullet-350/royal-enfield-bullet-350-galeria-8.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/bullet-350/royal-enfield-bullet-350-galeria-9.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/bullet-350/royal-enfield-bullet-350-galeria-10.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/bullet-350/royal-enfield-bullet-350-galeria-11.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/bullet-350/royal-enfield-bullet-350-galeria-12.webp",
+    "w": 700,
+    "h": 380
+   }
+  ],
+  "manual": "manuales/ficha-tecnica-royal-enfield-bullet-350.pdf",
+  "og": "assets/img/og/royal-enfield-bullet-350.jpg",
+  "wpUrl": "https://royalenfield.duomomotor.com/moto/bullet-350/"
+ },
+ {
+  "slug": "goan-classic-350",
+  "name": "Goan Classic 350",
+  "family": "350",
+  "cc": "349",
+  "license": "A2",
+  "hero": {
+   "img": "assets/img/modelos/goan-classic-350/royal-enfield-goan-classic-350-portada.webp",
+   "w": 1920,
+   "h": 1080
+  },
+  "motor": {
+   "img": {
+    "img": "assets/img/modelos/goan-classic-350/royal-enfield-goan-classic-350-motor.webp",
+    "w": 550,
+    "h": 550
+   },
+   "text": "La Goan Classic 350 se impulsa con un motor de plataforma J y 349 CC que le da una nota de escape única. Gracias a los 27 Nm de par máximo y su potencia de 20 CV, ofrece una aceleración suave y una conducción cómoda al atravesar la ciudad, al bordear la costa y en pendientes.",
+   "tagline": "Motor | Goan Classic 350"
+  },
+  "colors": [
+   {
+    "name": "Rave Red",
+    "price": 5287,
+    "img": {
+     "img": "assets/img/modelos/goan-classic-350/royal-enfield-goan-classic-350-rave-red.webp",
+     "w": 540,
+     "h": 304
+    },
+    "thumb": {
+     "img": "assets/img/modelos/goan-classic-350/royal-enfield-goan-classic-350-rave-red-mini.webp",
+     "w": 350,
+     "h": 230
+    }
+   }
+  ],
+  "price": 5287,
+  "main": {
+   "img": "assets/img/modelos/goan-classic-350/royal-enfield-goan-classic-350-rave-red.webp",
+   "w": 540,
+   "h": 304
+  },
+  "equip": [
+   {
+    "title": "Manillar alto estilo «ape hanger»",
+    "text": "El manillar estilo «ape hanger» crea una presencia más auténtica con una postura más vertical que reduce la tensión en la parte superior del cuerpo para que los viajes largos sean más cómodos.",
+    "img": {
+     "img": "assets/img/modelos/goan-classic-350/royal-enfield-goan-classic-350-manillar-alto-estilo-ape-hanger.webp",
+     "w": 450,
+     "h": 150
+    }
+   },
+   {
+    "title": "Cuadro de mandos analógico de estilo retro",
+    "text": "Disfruta del velocímetro, que combina un estilo retro con la funcionalidad moderna del sistema de navegación Tripper y una pantalla LCD digital con la que podrás comprobar la marcha, el nivel de combustible y otros muchos datos.",
+    "img": {
+     "img": "assets/img/modelos/goan-classic-350/royal-enfield-goan-classic-350-cuadro-de-mandos-analogico-de-estilo-ret.webp",
+     "w": 450,
+     "h": 150
+    }
+   },
+   {
+    "title": "Luces LED",
+    "text": "La motocicleta incorpora el característico faro con carcasa de las Classic, ahora en versión LED, al igual que los intermitentes, para mejorar el alumbrado de la moto con un consumo más eficiente.",
+    "img": {
+     "img": "assets/img/modelos/goan-classic-350/royal-enfield-goan-classic-350-luces-led.webp",
+     "w": 450,
+     "h": 150
+    }
+   },
+   {
+    "title": "Llantas de radios cruzados de aleación y neumáticos sin cámara con banda de rodadura blanca",
+    "text": "La Goan Classic 350 lleva llantas de radios cruzados de aluminio y neumáticos sin cámara de estilo retro, que no solo le dan una estética de la vieja escuela, sino que además reducen los pinchazos y facilitan las reparaciones.",
+    "img": {
+     "img": "assets/img/modelos/goan-classic-350/royal-enfield-goan-classic-350-llantas-de-radios-cruzados-de-aleacion-y.webp",
+     "w": 450,
+     "h": 150
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "img": "assets/img/modelos/goan-classic-350/royal-enfield-goan-classic-350-galeria-1.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/goan-classic-350/royal-enfield-goan-classic-350-galeria-2.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/goan-classic-350/royal-enfield-goan-classic-350-galeria-3.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/goan-classic-350/royal-enfield-goan-classic-350-galeria-4.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/goan-classic-350/royal-enfield-goan-classic-350-galeria-5.webp",
+    "w": 1600,
+    "h": 900
+   }
+  ],
+  "manual": "manuales/ficha-tecnica-royal-enfield-goan-classic-350.pdf",
+  "og": "assets/img/og/royal-enfield-goan-classic-350.jpg",
+  "wpUrl": "https://royalenfield.duomomotor.com/moto/goan-classic-350/"
+ },
+ {
+  "slug": "guerrilla-450",
+  "name": "Guerrilla 450",
+  "family": "450",
+  "cc": "452",
+  "license": "A2",
+  "hero": {
+   "img": "assets/img/modelos/guerrilla-450/royal-enfield-guerrilla-450-portada.webp",
+   "w": 1920,
+   "h": 1080
+  },
+  "motor": {
+   "img": null,
+   "text": "",
+   "tagline": ""
+  },
+  "colors": [
+   {
+    "name": "Playa Black",
+    "price": 5397,
+    "img": {
+     "img": "assets/img/modelos/guerrilla-450/royal-enfield-guerrilla-450-playa-black.webp",
+     "w": 1600,
+     "h": 900
+    },
+    "thumb": {
+     "img": "assets/img/modelos/guerrilla-450/royal-enfield-guerrilla-450-playa-black-mini.webp",
+     "w": 345,
+     "h": 220
+    }
+   },
+   {
+    "name": "Shadow Ash",
+    "price": 5397,
+    "img": {
+     "img": "assets/img/modelos/guerrilla-450/royal-enfield-guerrilla-450-shadow-ash.webp",
+     "w": 1600,
+     "h": 900
+    },
+    "thumb": {
+     "img": "assets/img/modelos/guerrilla-450/royal-enfield-guerrilla-450-shadow-ash-mini.webp",
+     "w": 345,
+     "h": 220
+    }
+   }
+  ],
+  "price": 5397,
+  "main": {
+   "img": "assets/img/modelos/guerrilla-450/royal-enfield-guerrilla-450-playa-black.webp",
+   "w": 1600,
+   "h": 900
+  },
+  "equip": [
+   {
+    "title": "TODO EL PAR A TU ALCANCE",
+    "text": "Con nuestro motor Sherpa de 452 cc con refrigeración líquida de 40 CV y 40 Nm de par, la Guerrilla 450 ha sido concebida para concentrar una potencia que responde al motorista en cualquier situación.",
+    "img": {
+     "img": "assets/img/modelos/guerrilla-450/royal-enfield-guerrilla-450-todo-el-par-a-tu-alcance.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "UN MODO PARA CADA ESTADO DE ÁNIMO",
+    "text": "Pasa del modo Performance al modo Eco en segundos gracias a un sistema de gestión del motor con gran capacidad de respuesta, el cual, además, ofrece un mayor ahorro de combustible.",
+    "img": {
+     "img": "assets/img/modelos/guerrilla-450/royal-enfield-guerrilla-450-un-modo-para-cada-estado-de-animo.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "PANEL TRIPPER TFT",
+    "text": "Accede a tu música, mensajes, mapas y muchas más cosas, sin tener que sacar tu móvil del bolsillo con la pantalla Tripper TFT de la Guerrilla 450 con integración de Google Maps en pantalla completa y chipset de Wi-Fi 5 de 2,4/5 Ghz.",
+    "img": {
+     "img": "assets/img/modelos/guerrilla-450/royal-enfield-guerrilla-450-panel-tripper-tft.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "ERGONOMÍA INTUITIVA",
+    "text": "Con un asiento bajo, estriberas a media altura y una posición erguida, la Guerrilla 450 ofrece una ergonomía que se adapta a tu estilo de conducción para que sortees cualquier situación, ya sea el tráfico más denso o las curvas más cerradas.",
+    "img": {
+     "img": "assets/img/modelos/guerrilla-450/royal-enfield-guerrilla-450-ergonomia-intuitiva.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "GUERRILLA 450: NEUMÁTICOS TUBELESS DE PERFIL ANCHO",
+    "text": "Las llantas de 17” de la Guerrilla 450 poseen neumáticos tubeless de perfil ancho (120/70 delantero y 160/60 trasero), y un dibujo exclusivo de la banda para que mantengas el control con cualquier velocidad en cualquier situación.",
+    "img": {
+     "img": "assets/img/modelos/guerrilla-450/royal-enfield-guerrilla-450-guerrilla-450-neumaticos-tubeless-de-per.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "GUERRILLA 450: CHASIS Y SUSPENSIÓN",
+    "text": "Gracias a su bastidor central de doble cuna, su suspensión delantera telescópica de 41 mm y trasera con monoamortiguador de 140 mm de Showa, la Guerrilla 450 ofrece una perfecta maniobrabilidad innata.",
+    "img": {
+     "img": "assets/img/modelos/guerrilla-450/royal-enfield-guerrilla-450-guerrilla-450-chasis-y-suspension.webp",
+     "w": 700,
+     "h": 380
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "img": "assets/img/modelos/guerrilla-450/royal-enfield-guerrilla-450-galeria-1.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/guerrilla-450/royal-enfield-guerrilla-450-galeria-2.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/guerrilla-450/royal-enfield-guerrilla-450-galeria-3.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/guerrilla-450/royal-enfield-guerrilla-450-galeria-4.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/guerrilla-450/royal-enfield-guerrilla-450-galeria-5.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/guerrilla-450/royal-enfield-guerrilla-450-galeria-6.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/guerrilla-450/royal-enfield-guerrilla-450-galeria-7.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/guerrilla-450/royal-enfield-guerrilla-450-galeria-8.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/guerrilla-450/royal-enfield-guerrilla-450-galeria-9.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/guerrilla-450/royal-enfield-guerrilla-450-galeria-10.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/guerrilla-450/royal-enfield-guerrilla-450-galeria-11.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/guerrilla-450/royal-enfield-guerrilla-450-galeria-12.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/guerrilla-450/royal-enfield-guerrilla-450-galeria-13.webp",
+    "w": 700,
+    "h": 380
+   }
+  ],
+  "manual": "manuales/ficha-tecnica-royal-enfield-guerrilla-450.pdf",
+  "og": "assets/img/og/royal-enfield-guerrilla-450.jpg",
+  "wpUrl": "https://royalenfield.duomomotor.com/moto/guerrilla-450/"
+ },
+ {
+  "slug": "himalayan-450",
+  "name": "Himalayan 450",
+  "family": "450",
+  "cc": "452",
+  "license": "A2",
+  "hero": {
+   "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-portada.webp",
+   "w": 1920,
+   "h": 1080
+  },
+  "motor": {
+   "img": {
+    "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-motor.webp",
+    "w": 1600,
+    "h": 708
+   },
+   "text": "Este motor, como los Sherpa en los que está inspirado, despliega un par suficiente para sacarte de una hondonada arenosa a 5.000 metros de altitud sobre el nivel del mar y luego hacerte disfrutar a tope de los cinco días del viaje de regreso a casa.",
+   "tagline": "Motor | Himalayan 450"
+  },
+  "colors": [
+   {
+    "name": "Kaza Brown",
+    "price": 5887,
+    "img": {
+     "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-kaza-brown.webp",
+     "w": 1600,
+     "h": 900
+    },
+    "thumb": {
+     "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-kaza-brown-mini.webp",
+     "w": 345,
+     "h": 220
+    }
+   },
+   {
+    "name": "Hanle Black",
+    "price": 6187,
+    "img": {
+     "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-hanle-black.webp",
+     "w": 1600,
+     "h": 900
+    },
+    "thumb": {
+     "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-hanle-black-mini.webp",
+     "w": 345,
+     "h": 220
+    }
+   },
+   {
+    "name": "Kamet White",
+    "price": 6437,
+    "img": {
+     "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-kamet-white.webp",
+     "w": 1600,
+     "h": 900
+    },
+    "thumb": {
+     "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-kamet-white-mini.webp",
+     "w": 345,
+     "h": 220
+    }
+   },
+   {
+    "name": "Hanle Black (Tubeless)",
+    "price": 6487,
+    "img": {
+     "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-hanle-black-tubeless.webp",
+     "w": 1600,
+     "h": 900
+    },
+    "thumb": {
+     "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-hanle-black-tubeless-mini.webp",
+     "w": 345,
+     "h": 220
+    }
+   },
+   {
+    "name": "Mana Black",
+    "price": 6587,
+    "img": {
+     "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-mana-black.webp",
+     "w": 540,
+     "h": 304
+    },
+    "thumb": {
+     "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-mana-black-mini.webp",
+     "w": 345,
+     "h": 220
+    }
+   }
+  ],
+  "price": 5887,
+  "main": {
+   "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-kaza-brown.webp",
+   "w": 1600,
+   "h": 900
+  },
+  "equip": [
+   {
+    "title": "Horquilla invertida",
+    "text": "Con una suspensión premium, la moto no se aparta lo más mínimo de la trayectoria marcada sobre terreno más irregular. Eso es exactamente lo que aporta la horquilla invertida de Showa.",
+    "img": {
+     "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-horquilla-invertida.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Chasis",
+    "text": "El bastidor de acero de doble cuna es más sólido y rígido, y también se estrecha entre las piernas para ofrecer un mayor confort al conducir de pie. Disfrutarás de una manejabilidad, una estabilidad y un equilibrio mejores.",
+    "img": {
+     "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-chasis.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Acelerador electrónico con modos de conducción",
+    "text": "El acelerador electrónico cuenta con cuatro modos de conducción que te permiten adecuar la respuesta al tipo de terreno y a tu estilo de conducción, y además reducen el consumo de combustible de la moto.",
+    "img": {
+     "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-acelerador-electronico-con-modos-de-cond.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Vadeando",
+    "text": "A los motores no les gusta el agua. Pero no hay aventura que se precie en la que no tengas que cruzar algún río, por lo que hemos dotado a la Himalayan con una toma de aire elevada situada debajo del depósito para que la moto cruce cualquier río sin despeinarse.",
+    "img": {
+     "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-vadeando.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Altura del asiento",
+    "text": "A nadie le gusta tener que interrumpir su viaje porque el asiento le resulta incómodo. Así que la nueva Himalayan cuenta con un asiento biplaza ajustable, a 825 mm de altura para el motorista y 845 mm para el acompañante, en el que ambos estarán cómodos en todo momento, junto con un asiento bajo (805 mm) disponible como opción para que toques con los pies en el suelo sea cual sea tu estatura.",
+    "img": {
+     "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-altura-del-asiento.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Sherpa 450",
+    "text": "Este motor, como los Sherpa en los que está inspirado, despliega un par suficiente para sacarte de una hondonada arenosa a 5.000 metros de altitud sobre el nivel del mar y luego hacerte disfrutar a tope de los cinco días del viaje de regreso a casa.",
+    "img": {
+     "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-sherpa-450.webp",
+     "w": 700,
+     "h": 380
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-galeria-1.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-galeria-2.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-galeria-3.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-galeria-4.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-galeria-5.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-galeria-6.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-galeria-7.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-galeria-8.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-galeria-9.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-galeria-10.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-galeria-11.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/himalayan-450/royal-enfield-himalayan-450-galeria-12.webp",
+    "w": 700,
+    "h": 380
+   }
+  ],
+  "manual": "manuales/ficha-tecnica-royal-enfield-himalayan-450.pdf",
+  "og": "assets/img/og/royal-enfield-himalayan-450.jpg",
+  "wpUrl": "https://royalenfield.duomomotor.com/moto/himalayan-450/"
+ },
+ {
+  "slug": "classic-650",
+  "name": "Classic 650",
+  "family": "650",
+  "cc": "648",
+  "license": "A2",
+  "hero": {
+   "img": "assets/img/modelos/classic-650/royal-enfield-classic-650-portada.webp",
+   "w": 1920,
+   "h": 1080
+  },
+  "motor": {
+   "img": {
+    "img": "assets/img/modelos/classic-650/royal-enfield-classic-650-motor.webp",
+    "w": 550,
+    "h": 550
+   },
+   "text": "El apreciado motor bicilíndrico paralelo de 648 cc de Royal Enfield hace su debut en la Classic 650 con una nueva configuración que ofrece un rendimiento insuperable, una respuesta excepcional al acelerador y el carácter elegante y pausado que caracteriza a las Classic.",
+   "tagline": "Motor | Classic 650"
+  },
+  "colors": [
+   {
+    "name": "Black Chrome",
+    "price": 7187,
+    "img": {
+     "img": "assets/img/modelos/classic-650/royal-enfield-classic-650-black-chrome.webp",
+     "w": 540,
+     "h": 304
+    },
+    "thumb": {
+     "img": "assets/img/modelos/classic-650/royal-enfield-classic-650-black-chrome-mini.webp",
+     "w": 350,
+     "h": 230
+    }
+   },
+   {
+    "name": "Teal",
+    "price": 6987,
+    "img": {
+     "img": "assets/img/modelos/classic-650/royal-enfield-classic-650-teal.webp",
+     "w": 800,
+     "h": 501
+    },
+    "thumb": {
+     "img": "assets/img/modelos/classic-650/royal-enfield-classic-650-teal-mini.webp",
+     "w": 350,
+     "h": 230
+    }
+   },
+   {
+    "name": "Bruntingthorpe Blue",
+    "price": 6887,
+    "img": {
+     "img": "assets/img/modelos/classic-650/royal-enfield-classic-650-bruntingthorpe-blue.webp",
+     "w": 800,
+     "h": 501
+    },
+    "thumb": {
+     "img": "assets/img/modelos/classic-650/royal-enfield-classic-650-bruntingthorpe-blue-mini.webp",
+     "w": 350,
+     "h": 230
+    }
+   }
+  ],
+  "price": 6887,
+  "main": {
+   "img": "assets/img/modelos/classic-650/royal-enfield-classic-650-black-chrome.webp",
+   "w": 540,
+   "h": 304
+  },
+  "equip": [
+   {
+    "title": "SUBCHASIS Y ASIENTO DEL ACOMPAÑANTE EXTRAÍBLES",
+    "text": "La Classic 650 se adapta a todo tipo de aventuras gracias a su diseño flexible, que incorpora un subchasis y asiento del acompañante extraíbles.",
+    "img": {
+     "img": "assets/img/modelos/classic-650/royal-enfield-classic-650-subchasis-y-asiento-del-acompanante-extr.webp",
+     "w": 450,
+     "h": 150
+    }
+   },
+   {
+    "title": "Escape doble pulido",
+    "text": "La Classic se adentra en su era 650 con un sistema de escape doble tipo «Peashooter» en cromo brillante que le confiere un aspecto y un sonido totalmente nuevos.",
+    "img": {
+     "img": "assets/img/modelos/classic-650/royal-enfield-classic-650-escape-doble-pulido.webp",
+     "w": 450,
+     "h": 150
+    }
+   },
+   {
+    "title": "Cuadro de mandos analógico de estilo retro",
+    "text": "El velocímetro combina un estilo retro con la facilidad de uso moderna de la pantalla LCD digital, que te permite comprobar fácilmente la marcha, la distancia recorrida, el nivel de combustible y más.",
+    "img": {
+     "img": "assets/img/modelos/classic-650/royal-enfield-classic-650-cuadro-de-mandos-analogico-de-estilo-ret.webp",
+     "w": 450,
+     "h": 150
+    }
+   },
+   {
+    "title": "Faro LED con carcasa y luces «Ojos de Tigre»",
+    "text": "La motocicleta incorpora el característico faro con carcasa de las Classic, ahora en versión LED para mejorar el alumbrado de la moto, junto con las emblemáticas luces «Ojos de Tigre».",
+    "img": {
+     "img": "assets/img/modelos/classic-650/royal-enfield-classic-650-faro-led-con-carcasa-y-luces-ojos-de-tig.webp",
+     "w": 450,
+     "h": 150
+    }
+   },
+   {
+    "title": "Suspensión de Showa",
+    "text": "La suspensión delantera de eficacia demostrada y la suspensión trasera hidráulica de doble amortiguador de Showa de la Classic 650 te permiten conducir con seguridad y estabilidad, vayas donde vayas.",
+    "img": {
+     "img": "assets/img/modelos/classic-650/royal-enfield-classic-650-suspension-de-showa.webp",
+     "w": 450,
+     "h": 150
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "img": "assets/img/modelos/classic-650/royal-enfield-classic-650-galeria-1.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/classic-650/royal-enfield-classic-650-galeria-2.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/classic-650/royal-enfield-classic-650-galeria-3.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/classic-650/royal-enfield-classic-650-galeria-4.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/classic-650/royal-enfield-classic-650-galeria-5.webp",
+    "w": 1600,
+    "h": 900
+   }
+  ],
+  "manual": "manuales/ficha-tecnica-royal-enfield-classic-650.pdf",
+  "og": "assets/img/og/royal-enfield-classic-650.jpg",
+  "wpUrl": "https://royalenfield.duomomotor.com/moto/classic-650/"
+ },
+ {
+  "slug": "continental-gt",
+  "name": "Continental GT",
+  "family": "650",
+  "cc": "648",
+  "license": "A2",
+  "hero": {
+   "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-portada.webp",
+   "w": 1920,
+   "h": 900
+  },
+  "motor": {
+   "img": null,
+   "text": "",
+   "tagline": ""
+  },
+  "colors": [
+   {
+    "name": "Rocker Red",
+    "price": 6987,
+    "img": {
+     "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-rocker-red.webp",
+     "w": 1600,
+     "h": 900
+    },
+    "thumb": {
+     "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-rocker-red-mini.webp",
+     "w": 345,
+     "h": 220
+    }
+   },
+   {
+    "name": "Mr Clean",
+    "price": 7487,
+    "img": {
+     "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-mr-clean.webp",
+     "w": 1600,
+     "h": 900
+    },
+    "thumb": {
+     "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-mr-clean-mini.webp",
+     "w": 345,
+     "h": 220
+    }
+   }
+  ],
+  "price": 6987,
+  "main": {
+   "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-rocker-red.webp",
+   "w": 1600,
+   "h": 900
+  },
+  "equip": [
+   {
+    "title": "Faro LED",
+    "text": "El nuevo faro combina la estética de la vieja escuela con luces LED modernas que aportan mayor visibilidad.",
+    "img": {
+     "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-faro-led.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Llantas De Aleación",
+    "text": "Las llamativas llantas de aleación en las versiones Blackout vienen con neumáticos sin cámara, para una mayor tranquilidad incluso en viajes largos.",
+    "img": {
+     "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-llantas-de-aleacion.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Conjuntos De Interruptores Prémium",
+    "text": "Fabricados en aluminio, los nuevos mandos de interruptores tienen un mejor agarre y tacto.",
+    "img": {
+     "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-conjuntos-de-interruptores-premium.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Puerto USB",
+    "text": "La carga durante la marcha te permite seguir conectado con el mundo, independientemente de dónde te encuentres o adónde te dirijas.",
+    "img": {
+     "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-puerto-usb.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Suspensión Probada Y Contrastada",
+    "text": "La suspensión de ajuste precisa con amortiguadores dobles de gas de tipo «piggy-back» ofrecen una combinación óptima de comodidad y sensación en cualquier situación de conducción.",
+    "img": {
+     "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-suspension-probada-y-contrastada.webp",
+     "w": 700,
+     "h": 380
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-galeria-1.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-galeria-2.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-galeria-3.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-galeria-4.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-galeria-5.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-galeria-6.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-galeria-7.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-galeria-8.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-galeria-9.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-galeria-10.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-galeria-11.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-galeria-12.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-galeria-13.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-galeria-14.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-galeria-15.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-galeria-16.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-galeria-17.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-galeria-18.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-galeria-19.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/continental-gt/royal-enfield-continental-gt-galeria-20.webp",
+    "w": 700,
+    "h": 380
+   }
+  ],
+  "manual": "manuales/ficha-tecnica-royal-enfield-continental-gt.pdf",
+  "og": "assets/img/og/royal-enfield-continental-gt.jpg",
+  "wpUrl": "https://royalenfield.duomomotor.com/moto/continental-gt/"
+ },
+ {
+  "slug": "interceptor-650",
+  "name": "Interceptor 650",
+  "family": "650",
+  "cc": "648",
+  "license": "A2",
+  "hero": {
+   "img": "assets/img/modelos/interceptor-650/royal-enfield-interceptor-650-portada.webp",
+   "w": 1920,
+   "h": 900
+  },
+  "motor": {
+   "img": null,
+   "text": "",
+   "tagline": ""
+  },
+  "colors": [
+   {
+    "name": "Sunset Strip",
+    "price": 6987,
+    "img": {
+     "img": "assets/img/modelos/interceptor-650/royal-enfield-interceptor-650-sunset-strip.webp",
+     "w": 1600,
+     "h": 900
+    },
+    "thumb": {
+     "img": "assets/img/modelos/interceptor-650/royal-enfield-interceptor-650-sunset-strip-mini.webp",
+     "w": 345,
+     "h": 220
+    }
+   },
+   {
+    "name": "Mark 2",
+    "price": 7287,
+    "img": {
+     "img": "assets/img/modelos/interceptor-650/royal-enfield-interceptor-650-mark-2.webp",
+     "w": 1600,
+     "h": 900
+    },
+    "thumb": {
+     "img": "assets/img/modelos/interceptor-650/royal-enfield-interceptor-650-mark-2-mini.webp",
+     "w": 345,
+     "h": 220
+    }
+   }
+  ],
+  "price": 6987,
+  "main": {
+   "img": "assets/img/modelos/interceptor-650/royal-enfield-interceptor-650-sunset-strip.webp",
+   "w": 1600,
+   "h": 900
+  },
+  "equip": [
+   {
+    "title": "Faro LED",
+    "text": "El nuevo faro combina la estética de la vieja escuela con luces LED modernas que aportan mayor visibilidad.",
+    "img": {
+     "img": "assets/img/modelos/interceptor-650/royal-enfield-interceptor-650-faro-led.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Llantas De Aleación",
+    "text": "Las llamativas llantas de aleación en las versiones Blackout vienen con neumáticos sin cámara, para una mayor tranquilidad incluso en viajes largos.",
+    "img": {
+     "img": "assets/img/modelos/interceptor-650/royal-enfield-interceptor-650-llantas-de-aleacion.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Conjuntos De Interruptores Prémium",
+    "text": "Fabricados en aluminio, los nuevos mandos de interruptores tienen un mejor agarre y tacto.",
+    "img": {
+     "img": "assets/img/modelos/interceptor-650/royal-enfield-interceptor-650-conjuntos-de-interruptores-premium.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Puerto USB",
+    "text": "La carga durante la marcha te permite seguir conectado con el mundo, independientemente de dónde te encuentres o a dónde te dirijas.",
+    "img": {
+     "img": "assets/img/modelos/interceptor-650/royal-enfield-interceptor-650-puerto-usb.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Suspensión Probada Y Contrastada",
+    "text": "La suspensión de ajuste precisa con amortiguadores dobles de gas de tipo «piggy-back» ofrecen una combinación óptima de comodidad y sensación en cualquier situación de conducción.",
+    "img": {
+     "img": "assets/img/modelos/interceptor-650/royal-enfield-interceptor-650-suspension-probada-y-contrastada.webp",
+     "w": 700,
+     "h": 380
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "img": "assets/img/modelos/interceptor-650/royal-enfield-interceptor-650-galeria-1.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "img": "assets/img/modelos/interceptor-650/royal-enfield-interceptor-650-galeria-2.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "img": "assets/img/modelos/interceptor-650/royal-enfield-interceptor-650-galeria-3.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "img": "assets/img/modelos/interceptor-650/royal-enfield-interceptor-650-galeria-4.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "img": "assets/img/modelos/interceptor-650/royal-enfield-interceptor-650-galeria-5.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "img": "assets/img/modelos/interceptor-650/royal-enfield-interceptor-650-galeria-6.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "img": "assets/img/modelos/interceptor-650/royal-enfield-interceptor-650-galeria-7.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "img": "assets/img/modelos/interceptor-650/royal-enfield-interceptor-650-galeria-8.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "img": "assets/img/modelos/interceptor-650/royal-enfield-interceptor-650-galeria-9.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/interceptor-650/royal-enfield-interceptor-650-galeria-10.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/interceptor-650/royal-enfield-interceptor-650-galeria-11.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/interceptor-650/royal-enfield-interceptor-650-galeria-12.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/interceptor-650/royal-enfield-interceptor-650-galeria-13.webp",
+    "w": 700,
+    "h": 380
+   }
+  ],
+  "manual": "manuales/ficha-tecnica-royal-enfield-interceptor-650.pdf",
+  "og": "assets/img/og/royal-enfield-interceptor-650.jpg",
+  "wpUrl": "https://royalenfield.duomomotor.com/moto/interceptor-650/"
+ },
+ {
+  "slug": "bullet-650",
+  "name": "Bullet 650",
+  "family": "650",
+  "cc": "648",
+  "license": "A2",
+  "hero": {
+   "img": "assets/img/modelos/bullet-650/royal-enfield-bullet-650-portada.webp",
+   "w": 1470,
+   "h": 840
+  },
+  "motor": {
+   "img": {
+    "img": "assets/img/modelos/bullet-650/royal-enfield-bullet-650-motor.webp",
+    "w": 550,
+    "h": 550
+   },
+   "text": "El motor bicilíndrico paralelo de la Bullet 650 desarrolla una potencia suave con una elevada capacidad de respuesta tanto para viajes de placer como los de aventura, mientras que su caja de cambios de 6 velocidades de gran precisión y su embrague antirrebote ligero garantizan viajes con todo el confort.",
+   "tagline": "Motor | Bullet 650"
+  },
+  "colors": [
+   {
+    "name": "Cannon Black",
+    "price": 7147,
+    "img": {
+     "img": "assets/img/modelos/bullet-650/royal-enfield-bullet-650-cannon-black.webp",
+     "w": 550,
+     "h": 450
+    },
+    "thumb": {
+     "img": "assets/img/modelos/bullet-650/royal-enfield-bullet-650-cannon-black-mini.webp",
+     "w": 350,
+     "h": 230
+    }
+   }
+  ],
+  "price": 7147,
+  "main": {
+   "img": "assets/img/modelos/bullet-650/royal-enfield-bullet-650-cannon-black.webp",
+   "w": 550,
+   "h": 450
+  },
+  "equip": [
+   {
+    "title": "Asiento característico",
+    "text": "Su asiento monoplaza escalonado es un guiño al asiento de banqueta que caracteriza a la Bullet, y no solo mejora el confort, sino que también permite llegar al suelo más fácilmente.",
+    "img": {
+     "img": "assets/img/modelos/bullet-650/royal-enfield-bullet-650-asiento-caracteristico.webp",
+     "w": 690,
+     "h": 514
+    }
+   },
+   {
+    "title": "Depósito con bandas",
+    "text": "Bandas doradas pintadas a mano. Un reluciente emblema alado tridimensional. La carrocería de la Bullet 650 es un tributo a su legendario ADN.",
+    "img": {
+     "img": "assets/img/modelos/bullet-650/royal-enfield-bullet-650-deposito-con-bandas.webp",
+     "w": 552,
+     "h": 411
+    }
+   },
+   {
+    "title": "Luz de posición de «ojo de tigre»",
+    "text": "La Bullet 650 conserva el clásico faro con carcasa y las dos luces de posición de «ojo de tigre» en honor a su histórico linaje.",
+    "img": {
+     "img": "assets/img/modelos/bullet-650/royal-enfield-bullet-650-luz-de-posicion-de-ojo-de-tigre.webp",
+     "w": 552,
+     "h": 411
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "img": "assets/img/modelos/bullet-650/royal-enfield-bullet-650-galeria-1.webp",
+    "w": 514,
+    "h": 800
+   },
+   {
+    "img": "assets/img/modelos/bullet-650/royal-enfield-bullet-650-galeria-2.webp",
+    "w": 515,
+    "h": 801
+   },
+   {
+    "img": "assets/img/modelos/bullet-650/royal-enfield-bullet-650-galeria-3.webp",
+    "w": 701,
+    "h": 501
+   },
+   {
+    "img": "assets/img/modelos/bullet-650/royal-enfield-bullet-650-galeria-4.webp",
+    "w": 700,
+    "h": 500
+   },
+   {
+    "img": "assets/img/modelos/bullet-650/royal-enfield-bullet-650-galeria-5.webp",
+    "w": 1060,
+    "h": 408
+   }
+  ],
+  "manual": null,
+  "og": "assets/img/og/royal-enfield-bullet-650.jpg",
+  "wpUrl": "https://royalenfield.duomomotor.com/moto/bullet-650/"
+ },
+ {
+  "slug": "bear-650",
+  "name": "Bear 650",
+  "family": "650",
+  "cc": "648",
+  "license": "A2",
+  "hero": {
+   "img": "assets/img/modelos/bear-650/royal-enfield-bear-650-portada.webp",
+   "w": 1920,
+   "h": 1080
+  },
+  "motor": {
+   "img": {
+    "img": "assets/img/modelos/bear-650/royal-enfield-bear-650-motor.webp",
+    "w": 550,
+    "h": 550
+   },
+   "text": "La Bear 650 es el fruto del instinto, potenciada por el célebre bicilíndrico en paralelo de Royal Enfield de 650 cc que le permite llegar a senderos forestales o realizar todo tipo de aventuras imprevistas. Con su terminación en negro premium, le aporta un aspecto robusto y determinado, tal como es el espíritu de una scrambler.",
+   "tagline": "Motor | Bear 650"
+  },
+  "colors": [
+   {
+    "name": "Broadwalk White",
+    "price": 7287,
+    "img": {
+     "img": "assets/img/modelos/bear-650/royal-enfield-bear-650-broadwalk-white.webp",
+     "w": 900,
+     "h": 506
+    },
+    "thumb": {
+     "img": "assets/img/modelos/bear-650/royal-enfield-bear-650-broadwalk-white-mini.webp",
+     "w": 350,
+     "h": 230
+    }
+   },
+   {
+    "name": "Wild Honey",
+    "price": 7386,
+    "img": {
+     "img": "assets/img/modelos/bear-650/royal-enfield-bear-650-wild-honey.webp",
+     "w": 900,
+     "h": 506
+    },
+    "thumb": {
+     "img": "assets/img/modelos/bear-650/royal-enfield-bear-650-wild-honey-mini.webp",
+     "w": 350,
+     "h": 230
+    }
+   },
+   {
+    "name": "Golden Shadow",
+    "price": 7487,
+    "img": {
+     "img": "assets/img/modelos/bear-650/royal-enfield-bear-650-golden-shadow.webp",
+     "w": 900,
+     "h": 506
+    },
+    "thumb": {
+     "img": "assets/img/modelos/bear-650/royal-enfield-bear-650-golden-shadow-mini.webp",
+     "w": 350,
+     "h": 230
+    }
+   },
+   {
+    "name": "Two Four Nine",
+    "price": 7587,
+    "img": {
+     "img": "assets/img/modelos/bear-650/royal-enfield-bear-650-two-four-nine.webp",
+     "w": 900,
+     "h": 506
+    },
+    "thumb": {
+     "img": "assets/img/modelos/bear-650/royal-enfield-bear-650-two-four-nine-mini.webp",
+     "w": 350,
+     "h": 230
+    }
+   }
+  ],
+  "price": 7287,
+  "main": {
+   "img": "assets/img/modelos/bear-650/royal-enfield-bear-650-broadwalk-white.webp",
+   "w": 900,
+   "h": 506
+  },
+  "equip": [
+   {
+    "title": "PLACA DE COMPETICIÓN CON NÚMERO",
+    "text": "La Bear 650 captura el espíritu de la victoria de Eddie Mulder en 1960 en la carrera más importante celebrada en el desierto californiano, la Big Bear Run. \"Fast Eddie\" cruzó la meta en primer lugar con su número 249.",
+    "img": {
+     "img": "assets/img/modelos/bear-650/royal-enfield-bear-650-placa-de-competicion-con-numero.webp",
+     "w": 319,
+     "h": 106
+    }
+   },
+   {
+    "title": "TRIPPER DASH",
+    "text": "Porque el instinto no siempre es suficiente, accede a tu música, mensajes, mapas y más en tu Tripper Dash via Google Maps.",
+    "img": {
+     "img": "assets/img/modelos/bear-650/royal-enfield-bear-650-tripper-dash.webp",
+     "w": 450,
+     "h": 150
+    }
+   },
+   {
+    "title": "HORQUILLA INVERTIDA",
+    "text": "Disfruta de una horquilla invertida que te ofrece mayor confianza en carretera, en caminos y en asfalto en malas condiciones.",
+    "img": {
+     "img": "assets/img/modelos/bear-650/royal-enfield-bear-650-horquilla-invertida.webp",
+     "w": 450,
+     "h": 150
+    }
+   },
+   {
+    "title": "NEUMÁTICOS GRUESOS",
+    "text": "La altura libre al suelo de 184 mm, la llanta delantera de 19\" y trasera de 17\", ofrecen una imagen auténtica a esta scrambler aportando gran adherencia y permitiendo afrontar un todo-terreno ligero.",
+    "img": {
+     "img": "assets/img/modelos/bear-650/royal-enfield-bear-650-neumaticos-gruesos.webp",
+     "w": 450,
+     "h": 150
+    }
+   },
+   {
+    "title": "ESCAPE 2 EN 1",
+    "text": "Además de una cuidada estética, el sistema de escape 2 en 1 mejora las prestaciones del motor reduciendo peso y tamaño.",
+    "img": {
+     "img": "assets/img/modelos/bear-650/royal-enfield-bear-650-escape-2-en-1.webp",
+     "w": 450,
+     "h": 150
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "img": "assets/img/modelos/bear-650/royal-enfield-bear-650-galeria-1.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/bear-650/royal-enfield-bear-650-galeria-2.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/bear-650/royal-enfield-bear-650-galeria-3.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/bear-650/royal-enfield-bear-650-galeria-4.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/bear-650/royal-enfield-bear-650-galeria-5.webp",
+    "w": 1600,
+    "h": 900
+   }
+  ],
+  "manual": "manuales/ficha-tecnica-royal-enfield-bear-650.pdf",
+  "og": "assets/img/og/royal-enfield-bear-650.jpg",
+  "wpUrl": "https://royalenfield.duomomotor.com/moto/bear-650/"
+ },
+ {
+  "slug": "shotgun-650",
+  "name": "Shotgun 650",
+  "family": "650",
+  "cc": "648",
+  "license": "A2",
+  "hero": {
+   "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-portada.webp",
+   "w": 1440,
+   "h": 940
+  },
+  "motor": {
+   "img": {
+    "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-motor.webp",
+    "w": 1600,
+    "h": 833
+   },
+   "text": "Bajo el inquebrantable espinazo de acero de la Shotgun 650 late nuestro motor bicilíndrico paralelo de 648 cc, diseñado para enfrentarse al mundo real gracias a su sólida respuesta en el rango medio de revoluciones y un par motor sobrado en todas las marchas para que el motorista no deje nunca de divertirse. Esta moto encarna nuestro más puro ADN motero sin que ello le suponga una limitación; cuenta con capacidades modulares y luce una estética neomodernista con colores exclusivos que se salen de lo común para redefinir los límites adonde Royal Enfield puede llegar.",
+   "tagline": "Motor | Shotgun 650"
+  },
+  "colors": [
+   {
+    "name": "Sheet Metal Grey",
+    "price": 7387,
+    "img": {
+     "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-sheet-metal-grey.webp",
+     "w": 900,
+     "h": 506
+    },
+    "thumb": {
+     "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-sheet-metal-grey-mini.webp",
+     "w": 205,
+     "h": 105
+    }
+   },
+   {
+    "name": "Drill Green",
+    "price": 7487,
+    "img": {
+     "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-drill-green.webp",
+     "w": 900,
+     "h": 506
+    },
+    "thumb": {
+     "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-drill-green-mini.webp",
+     "w": 205,
+     "h": 105
+    }
+   },
+   {
+    "name": "Plasma Blue",
+    "price": 7487,
+    "img": {
+     "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-plasma-blue.webp",
+     "w": 900,
+     "h": 506
+    },
+    "thumb": {
+     "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-plasma-blue-mini.webp",
+     "w": 205,
+     "h": 105
+    }
+   },
+   {
+    "name": "Stencil White",
+    "price": 7587,
+    "img": {
+     "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-stencil-white.webp",
+     "w": 900,
+     "h": 506
+    },
+    "thumb": {
+     "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-stencil-white-mini.webp",
+     "w": 205,
+     "h": 105
+    }
+   }
+  ],
+  "price": 7387,
+  "main": {
+   "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-sheet-metal-grey.webp",
+   "w": 900,
+   "h": 506
+  },
+  "equip": [
+   {
+    "title": "Cuadro de instrumentos analógico-digitales con navegación Tripper",
+    "text": "La mezcla perfecta entre el encanto de tiempos pasados y la tecnología de nuestros días. El grupo de instrumentos analógico-digitales con navegador Tripper de la Shotgun 650 está diseñado para proporcionarte toda la información que necesites en tus viajes.",
+    "img": {
+     "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-cuadro-de-instrumentos-analogico-digital.webp",
+     "w": 345,
+     "h": 400
+    }
+   },
+   {
+    "title": "Suspensión delantera con horquilla invertida",
+    "text": "La horquilla invertida Showa SF-BPF y el doble amortiguador trasero con suspensión con ajuste en precarga en 5 puntos ofrecen una conducción suave en todo tipo de terrenos, incluso cuando la moto va cargada.",
+    "img": {
+     "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-suspension-delantera-con-horquilla-inver.webp",
+     "w": 345,
+     "h": 400
+    }
+   },
+   {
+    "title": "Conmutadores en aluminio brillante con manetas ajustables",
+    "text": "El excelente diseño de inspiración retro de los conmutadores con manetas ajustables hará que disfrutes en cada viaje tanto de su aspecto como de su tacto.",
+    "img": {
+     "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-conmutadores-en-aluminio-brillante-con-m.webp",
+     "w": 345,
+     "h": 400
+    }
+   },
+   {
+    "title": "Llantas de aleación tubeless",
+    "text": "Gracias a las llantas de aleación con neumáticos tubeless, tus viajes nunca se verán interrumpidos por pinchazos inoportunos. Y el menor diámetro de las ruedas te da confianza y control en todo tipo de condiciones de carga, además de mejorar la presencia en la carretera de la Shotgun 650.",
+    "img": {
+     "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-llantas-de-aleacion-tubeless.webp",
+     "w": 345,
+     "h": 400
+    }
+   },
+   {
+    "title": "Carga por USB",
+    "text": "La Shotgun viene equipada con un puerto USB para que cargues tus dispositivos sobre la marcha.",
+    "img": {
+     "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-carga-por-usb.webp",
+     "w": 345,
+     "h": 400
+    }
+   },
+   {
+    "title": "Asiento deportivo",
+    "text": "Disfruta siempre de la máxima comodidad en todos tus viajes con la Shotgun 650 con el elegante asiento deportivo de diseño ergonómico, que puede pasarse de configuración monoplaza a biplaza y viceversa en un abrir y cerrar de ojos.",
+    "img": {
+     "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-asiento-deportivo.webp",
+     "w": 345,
+     "h": 400
+    }
+   },
+   {
+    "title": "Faros LED",
+    "text": "El faro LED con protector, integrado en una carcasa hecha a medida en estilo neomodernista, ofrece una visibilidad mejorada en todo tipo de carreteras.",
+    "img": {
+     "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-faros-led.webp",
+     "w": 345,
+     "h": 400
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-galeria-1.webp",
+    "w": 1440,
+    "h": 940
+   },
+   {
+    "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-galeria-2.webp",
+    "w": 1440,
+    "h": 940
+   },
+   {
+    "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-galeria-3.webp",
+    "w": 1440,
+    "h": 940
+   },
+   {
+    "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-galeria-4.webp",
+    "w": 1440,
+    "h": 940
+   },
+   {
+    "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-galeria-5.webp",
+    "w": 1440,
+    "h": 940
+   },
+   {
+    "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-galeria-6.webp",
+    "w": 1440,
+    "h": 940
+   },
+   {
+    "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-galeria-7.webp",
+    "w": 1440,
+    "h": 940
+   },
+   {
+    "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-galeria-8.webp",
+    "w": 1440,
+    "h": 940
+   },
+   {
+    "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-galeria-9.webp",
+    "w": 1440,
+    "h": 940
+   },
+   {
+    "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-galeria-10.webp",
+    "w": 345,
+    "h": 400
+   },
+   {
+    "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-galeria-11.webp",
+    "w": 345,
+    "h": 400
+   },
+   {
+    "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-galeria-12.webp",
+    "w": 345,
+    "h": 400
+   },
+   {
+    "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-galeria-13.webp",
+    "w": 345,
+    "h": 400
+   },
+   {
+    "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-galeria-14.webp",
+    "w": 345,
+    "h": 400
+   },
+   {
+    "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-galeria-15.webp",
+    "w": 345,
+    "h": 400
+   },
+   {
+    "img": "assets/img/modelos/shotgun-650/royal-enfield-shotgun-650-galeria-16.webp",
+    "w": 345,
+    "h": 400
+   }
+  ],
+  "manual": "manuales/ficha-tecnica-royal-enfield-shotgun-650.pdf",
+  "og": "assets/img/og/royal-enfield-shotgun-650.jpg",
+  "wpUrl": "https://royalenfield.duomomotor.com/moto/shotgun-650/"
+ },
+ {
+  "slug": "super-meteor-650",
+  "name": "Super Meteor 650",
+  "family": "650",
+  "cc": "648",
+  "license": "A2",
+  "hero": {
+   "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-portada.webp",
+   "w": 1920,
+   "h": 1080
+  },
+  "motor": {
+   "img": null,
+   "text": "",
+   "tagline": ""
+  },
+  "colors": [
+   {
+    "name": "Astral Black",
+    "price": 7447,
+    "img": {
+     "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-astral-black.webp",
+     "w": 1420,
+     "h": 950
+    },
+    "thumb": {
+     "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-astral-black-mini.webp",
+     "w": 345,
+     "h": 220
+    }
+   },
+   {
+    "name": "Interestellar Grey",
+    "price": 7647,
+    "img": {
+     "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-interestellar-grey.webp",
+     "w": 1420,
+     "h": 950
+    },
+    "thumb": {
+     "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-interestellar-grey-mini.webp",
+     "w": 345,
+     "h": 220
+    }
+   },
+   {
+    "name": "Interestellar Green",
+    "price": 7647,
+    "img": {
+     "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-interestellar-green.webp",
+     "w": 1420,
+     "h": 950
+    },
+    "thumb": {
+     "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-interestellar-green-mini.webp",
+     "w": 345,
+     "h": 220
+    }
+   },
+   {
+    "name": "Celestial Red",
+    "price": 7947,
+    "img": {
+     "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-celestial-red.webp",
+     "w": 1420,
+     "h": 950
+    },
+    "thumb": {
+     "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-celestial-red-mini.webp",
+     "w": 345,
+     "h": 220
+    }
+   },
+   {
+    "name": "Celestial Blue",
+    "price": 7947,
+    "img": {
+     "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-celestial-blue.webp",
+     "w": 1420,
+     "h": 950
+    },
+    "thumb": {
+     "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-celestial-blue-mini.webp",
+     "w": 345,
+     "h": 220
+    }
+   }
+  ],
+  "price": 7447,
+  "main": {
+   "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-astral-black.webp",
+   "w": 1420,
+   "h": 950
+  },
+  "equip": [
+   {
+    "title": "Asiento Bajo Y Cómodo",
+    "text": "El asiento bajo y ancho, y la posición relajada del conductor, hacen que la conducción sea una experiencia cómoda, independientemente de los kilómetros recorridos y los que queden aún por delante.",
+    "img": {
+     "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-asiento-bajo-y-comodo.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Depósito De Gasolina Esculpido",
+    "text": "El amplio depósito en forma de lágrima de la Super Meteor 650 tiene capacidad para 15,7 litros de combustible, lo que garantiza viajes largos sin paradas.",
+    "img": {
+     "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-deposito-de-gasolina-esculpido.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Suspensión Usd",
+    "text": "Las horquillas invertidas de la suspensión delantera ofrecen confianza y control en todas las situaciones, desde autopistas hasta calles con tráfico denso.",
+    "img": {
+     "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-suspension-usd.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Faro Led",
+    "text": "El nuevo faro combina la estética vintage con las modernas luces LED para así reducir el consumo de potencia y al mismo tiempo, incrementar la visibilidad, adonde quiera que vayas.",
+    "img": {
+     "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-faro-led.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Cuadro De Instrumentos Digi-analógico",
+    "text": "El panel de instrumentos digi-analógico de inspiración retro con pantalla de LCD flotante y sistema de navegación Tripper integrado, proporciona toda la información necesaria, tanto de día como de noche.",
+    "img": {
+     "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-cuadro-de-instrumentos-digi-analogico.webp",
+     "w": 700,
+     "h": 380
+    }
+   },
+   {
+    "title": "Llantas De Aleación Con Neumático Trasero Más Ancho",
+    "text": "Las llantas de aleación con neumáticos sin cámara son garantía segura de que ningún pinchazo interrumpirá los planes, mientras que el neumático trasero más ancho ofrece una tracción y una estabilidad mejoradas, incluso a las más altas velocidades.",
+    "img": {
+     "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-llantas-de-aleacion-con-neumatico-traser.webp",
+     "w": 700,
+     "h": 380
+    }
+   }
+  ],
+  "gallery": [
+   {
+    "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-galeria-1.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-galeria-2.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-galeria-3.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-galeria-4.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-galeria-5.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-galeria-6.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-galeria-7.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-galeria-8.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-galeria-9.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-galeria-10.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-galeria-11.webp",
+    "w": 700,
+    "h": 380
+   },
+   {
+    "img": "assets/img/modelos/super-meteor-650/royal-enfield-super-meteor-650-galeria-12.webp",
+    "w": 700,
+    "h": 380
+   }
+  ],
+  "manual": "manuales/ficha-tecnica-royal-enfield-super-meteor-650.pdf",
+  "og": "assets/img/og/royal-enfield-super-meteor-650.jpg",
+  "wpUrl": "https://royalenfield.duomomotor.com/moto/super-meteor-650/"
+ }
+]
