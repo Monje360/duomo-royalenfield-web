@@ -694,3 +694,7 @@ h2 { font-size: clamp(2rem, 4vw, 3rem); }
 .stats a { color: inherit; text-decoration: underline; }
 .serv img { object-fit: contain; width: 64%; margin: 0 auto 14px; aspect-ratio: 1; }
 .mhero-re .wrap { width: 100%; }
+.trust--re { background: var(--yellow); color: #fff; }
+.trust--re .trust__ico { background: #fff; color: var(--yellow); }
+.trust--re b { color: #fff; }
+.btn--dark { background: #111; color: #fff; }

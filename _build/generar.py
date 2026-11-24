@@ -572,6 +572,15 @@ def page_home():
     <div class="wrap" style="position:relative"><div class="hero__dots" role="tablist" aria-label="Imágenes">{"".join(f'<button aria-label="{t}"{" class=\"is-active\"" if i == 0 else ""}></button>' for i, (t, h, d) in enumerate(BENEFICIOS))}</div></div>
   </section>
 
+  <section class="trust trust--re" aria-label="Royal Enfield Madrid Sur">
+    <div class="wrap">
+      <div class="trust__item"><span class="trust__ico">{ICO["shield"]}</span><span><b>Oficial</b>Concesionario Royal Enfield</span></div>
+      <div class="trust__item"><span class="trust__ico">{ICO["wrench"]}</span><span><b>Especialistas</b>Taller especializado</span></div>
+      <div class="trust__item"><span class="trust__ico">{ICO["euro"]}</span><span><b>A medida</b>Financiación con o sin entrada</span></div>
+      <div class="trust__item"><span class="trust__ico">{ICO["star"]}</span><span><b>4.8 en Google</b>+700 vecinos satisfechos</span></div>
+    </div>
+  </section>
+
   <section class="section" id="gama">
     <div class="wrap">
       <span class="eyebrow" style="display:flex;justify-content:center">Royal Enfield Madrid Sur</span>
@@ -591,6 +600,21 @@ def page_home():
   </section>
 
   <section class="regal" aria-label="Galería">{gal}</section>
+
+  <section class="section">
+    <div class="wrap split">
+      <figure class="story__img reveal"><img src="/assets/img/empresa/royal-enfield-duomo.webp" alt="Royal Enfield en Duomo Motor Bikes" width="1024" height="576" loading="lazy" decoding="async"></figure>
+      <div class="prose reveal reveal-d1">
+        <span class="eyebrow">Sobre nosotros</span>
+        <h2>Duomo Motor Bikes, concesionario Royal Enfield en Madrid</h2>
+        <p>En Duomo Motor Bikes compartimos la misma filosofía que define a Royal Enfield: pasión por la innovación, el diseño y la evolución constante en el mundo de las motocicletas.</p>
+        <p>Una amplia exposición con <b>más de 100 motocicletas</b> donde podrás descubrir la <b>gama completa de Royal Enfield</b>, con taller propio especializado, servicio postventa, recambios originales y boutique para el motorista.</p>
+        <div class="hero__actions"><a class="btn btn--dark" href="/concesionario-royal-enfield-en-madrid-sur/">Conócenos</a><a class="btn btn--ghost" href="/solicitud-de-prueba/">Solicita una prueba</a></div>
+      </div>
+    </div>
+  </section>
+
+
 
   <section class="section">
     <div class="wrap">{stats_html()}</div>
