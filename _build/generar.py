@@ -71,6 +71,12 @@ DEALER = {
 
 # ------------------------------------------------------------------ PLANTILLA
 def head(title, desc, path, og_img="/assets/img/og/royal-enfield-madrid-sur.jpg", ld=(), noindex=False, preload=None):
+    # SEO: títulos ≤ 62 y descripciones ≤ 158 caracteres (Google corta lo demás)
+    if len(title) > 62 and " | " in title: title = title.rsplit(" | ", 1)[0]
+    if len(title) > 62 and " · " in title: title = title.rsplit(" · ", 1)[0]
+    if len(desc) > 158:
+        _c = desc[:158]; _p = _c.rfind(". ")
+        desc = _c[:_p + 1] if _p > 90 else _c.rsplit(" ", 1)[0].rstrip(",;:") + "…"
     canon = SITE + path
     ld_html = "\n".join(jsonld(x) for x in ld)
     pre = f'<link rel="preload" as="image" href="{preload}" fetchpriority="high">' if preload else ""
@@ -165,6 +171,7 @@ def footer():
         </address>
       </div>
     </div>
+    <div class="wrap footer-brands"><span>Duomo Motor Bikes, concesionario oficial multimarca en Móstoles:</span> <a href="https://duomomotor.com/">Duomo Motor Bikes</a> · <a href="https://suzuki.duomomotor.com/">Suzuki</a> · <a href="https://zontes.duomomotor.com/">Zontes</a> · <a href="https://voge.duomomotor.com/">Voge</a></div>
     <div class="wrap footer-bottom">
       <span>© <span id="year">{datetime.date.today().year}</span> {NEGOCIO["razon"]}. Todos los derechos reservados.</span>
       <span><a href="/aviso-legal/">Aviso Legal</a> · <a href="/politica-de-cookies/">Política de Cookies</a> · <a href="/politicas-de-privacidad/">Políticas de Privacidad</a></span>
@@ -173,6 +180,7 @@ def footer():
   <a class="wa-float" href="https://wa.me/{WHATSAPP}" target="_blank" rel="noopener" aria-label="Escríbenos por WhatsApp">{ICO["wa"]}</a>
   <script src="/assets/js/config.js"></script>
   <script src="/assets/js/app.js" defer></script>
+  <script src="/assets/js/ficha-modal.js" defer></script>
   <script src="/assets/js/cookies.js" defer></script>
 </body>
 </html>
@@ -215,7 +223,7 @@ def marquee(words):
 def card(m, lazy=True, h="h3"):
     ncol = len(m["colors"])
     im = m["main"]
-    return f"""<article class="card card--re reveal" data-cat="{m["family"]}">
+    return f"""<article class="card card--re reveal" data-cat="{m["family"]}" data-slug="{m["slug"]}">
         <a class="card__media" href="{model_url(m)}" tabindex="-1" aria-hidden="true"><img src="/{im["img"]}" alt="{e(full(m))}" width="{im["w"]}" height="{im["h"]}"{' loading="lazy" decoding="async"' if lazy else ''}></a>
         <div class="card__body">
           <span class="card__cat">Gama {m["family"]}</span>
@@ -511,6 +519,8 @@ def blog_rerender(tpl, posts):
         if not os.path.exists(fp): continue
         fills = json.load(open(fp, encoding="utf-8"))
         fills["%%RELACIONADOS%%"] = blog_relacionados(p, posts)
+        _t = html.unescape(fills.get("%%TITLE%%", ""))
+        if len(_t) > 62 and " | " in _t: fills["%%TITLE%%"] = e(_t.rsplit(" | ", 1)[0])
         fills["%%CTA_BAND%%"] = band
         html_ = tpl
         for k, v in fills.items(): html_ = html_.replace(k, v)
@@ -630,7 +640,7 @@ def page_home():
   </section>
   {cta_band()}
 """
-    write("/", head("Royal Enfield Madrid Sur · Concesionario Oficial de Royal Enfield en Madrid Sur",
+    write("/", head("Royal Enfield Madrid Sur · Concesionario oficial en Móstoles",
                     f"Concesionario oficial Royal Enfield en Móstoles: toda la gama Royal Enfield desde {eur(precio_min())}, taller especializado, financiación a tu medida y prueba.",
                     "/", ld=ld, preload="/assets/img/hero/royal-enfield-madrid-sur-1.webp") + header("inicio") + body + footer())
 
@@ -707,7 +717,8 @@ def page_model(m):
 """
     meta = f"{fn} desde {eur(m['price'])} en Royal Enfield Madrid Sur. {mot['text']}" if mot["text"] else f"{fn} desde {eur(m['price'])} en Royal Enfield Madrid Sur: colores, precios, equipamiento y prueba en Móstoles."
     if len(meta) > 160: meta = meta[:157].rsplit(" ", 1)[0] + "…"
-    write(url, head(f"{fn} · Royal Enfield Madrid Sur", meta, url, og_img="/" + m["og"], ld=[product, crumbs_ld(crumbs)], preload="/" + hero["img"]) + header("modelos") + body + footer())
+    meta = f"{fn} desde {eur(m['price'])} en Royal Enfield Madrid Sur (Móstoles). {m['cc']} cc, carnet {m['license']}, {len(m['colors'])} colores. Precio por color, equipamiento y prueba."
+    write(url, head(f"{fn}: precio y prueba en Móstoles", meta, url, og_img="/" + m["og"], ld=[product, crumbs_ld(crumbs)], preload="/" + hero["img"]) + header("modelos") + body + footer())
 
 # ------------------------------------------------------------------ NOSOTROS
 def page_nosotros():
@@ -889,3 +900,18 @@ if __name__ == "__main__":
     for u, (t, s, cnt) in LEGAL.items(): page_legal(u, t, s, cnt)
     page_blog(); page_404(); seo_files()
     print(f"OK · {len(M)} modelos")
+
+# ---------- Fichas para el pop-up (como Suzuki) ----------
+def _corta(t, n=230):
+    t = re.sub(r"<[^>]+>", "", t or "").strip()
+    return t if len(t) <= n else t[:n].rsplit(" ", 1)[0] + "…"
+def _fichas():
+    d = {"_site": {"wa": WHATSAPP, "priceNote": "PVP recomendado · IVA incluido"}}
+    for m in M:
+        d[m["slug"]] = {"name": m["name"], "full": full(m), "cat": f'Gama {m["family"]}', "url": model_url(m),
+            "price": m["price"], "pvp": None, "desde": len({c.get("price") for c in m["colors"]}) > 1,
+            "desc": _corta((m.get("motor") or {}).get("text", "")),
+            "specs": [["Gama", m["family"]], ["Cilindrada", f'{m["cc"]} cc'], ["Carnet", m["license"]], ["Colores", str(len(m["colors"]))]],
+            "colors": [{"name": c["name"], "img": c["img"]["img"], "thumb": (c.get("thumb") or {}).get("img"), "price": c.get("price")} for c in m["colors"]]}
+    open(os.path.join(ROOT, "assets", "js", "fichas.json"), "w", encoding="utf-8").write(json.dumps(d, ensure_ascii=False, separators=(",", ":")))
+_fichas()
